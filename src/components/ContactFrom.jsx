@@ -5,7 +5,9 @@ const ContactForm = () => {
     <div className="max-w-3xl mx-auto px-6 py-10">
       {/* Tiêu đề */}
       <div className="text-center mb-8">
-        <h2 className="text-3xl font-bold text-gray-900">Tell me what you need?</h2>
+        <h2 className="text-3xl font-bold text-gray-900">
+          Tell me what you need?
+        </h2>
         <p className="text-gray-600 text-base mt-2">
           Leave your contact details so our team can get in touch with you!
         </p>
@@ -43,8 +45,11 @@ const ContactForm = () => {
             <p>
               In accordance with the LGPD, I agree to provide the above data so
               that Touring Cars can contact me to present services. Your name,
-              email and phone number will be used in accordance with our {" "}
-              <a href="#" className="text-gray-900 font-semibold hover:underline">
+              email and phone number will be used in accordance with our{" "}
+              <a
+                href="#"
+                className="text-gray-900 font-semibold hover:underline"
+              >
                 Privacy Policy
               </a>
               .

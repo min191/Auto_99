@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from "react";
 import { useParams, Link } from "react-router-dom";
-import PopupContact from "../../components/PopupContact";
+import PopupContact from "../../components/common/PopupContact";
 import { PRODUCT_API } from "../../API/ListProductAPI";
 
 const DetailPage = () => {
