@@ -1,0 +1,46 @@
+{
+    "promotions": [
+        {
+            "title": "Ưu đãi tháng 3 khi mua ô tô",
+            "thumbnail": "https://example.com/images/car-promotion.jpg",
+            "description": "Giảm giá đặc biệt và quà tặng hấp dẫn cho khách hàng mua xe trong tháng 3",
+            "body": "Tháng 3 này, chúng tôi mang đến chương trình ưu đãi đặc biệt dành cho khách hàng mua ô tô. Khi mua bất kỳ dòng xe nào tại hệ thống đại lý của chúng tôi, khách hàng sẽ nhận được những phần quà hấp dẫn như bảo hiểm xe miễn phí, gói bảo dưỡng định kỳ trong 1 năm và hỗ trợ chi phí đăng ký xe. Chương trình áp dụng từ ngày 1/3 đến hết ngày 31/3, không áp dụng kèm các chương trình khuyến mãi khác. Hãy đến ngay showroom để trải nghiệm và tận hưởng ưu đãi tốt nhất!",
+            "tags": ["khuyến mãi", "ô tô", "tháng 3"]
+        },
+        {
+            "title": "Hỗ trợ vay mua xe với lãi suất thấp",
+            "thumbnail": "https://example.com/images/car-loan.jpg",
+            "description": "Chương trình hỗ trợ tài chính với lãi suất ưu đãi dành cho khách hàng mua ô tô",
+            "body": "Nhằm giúp khách hàng dễ dàng sở hữu chiếc xe mơ ước, chúng tôi cung cấp chương trình vay mua xe với lãi suất cực kỳ ưu đãi. Khách hàng có thể vay đến 80% giá trị xe với mức lãi suất chỉ từ 0.5%/tháng. Thời gian vay linh hoạt lên đến 7 năm, thủ tục đơn giản, giải ngân nhanh chóng trong vòng 24 giờ. Đội ngũ tư vấn chuyên nghiệp luôn sẵn sàng hỗ trợ để bạn có thể sở hữu chiếc xe mong muốn một cách thuận lợi nhất!",
+            "tags": ["vay mua xe", "ô tô", "ưu đãi"]
+        },
+        {
+            "title": "Tặng gói bảo dưỡng khi mua xe mới",
+            "thumbnail": "https://example.com/images/car-maintenance.jpg",
+            "description": "Mua xe mới ngay hôm nay để nhận ngay gói bảo dưỡng miễn phí",
+            "body": "Khi mua bất kỳ mẫu xe nào tại đại lý của chúng tôi, khách hàng sẽ được tặng ngay gói bảo dưỡng miễn phí trong 2 năm, bao gồm các dịch vụ thay dầu nhớt, kiểm tra động cơ, bảo trì hệ thống phanh và nhiều dịch vụ khác. Đây là cơ hội tuyệt vời để đảm bảo chiếc xe của bạn luôn trong tình trạng tốt nhất mà không phải lo lắng về chi phí bảo dưỡng ban đầu. Hãy đặt xe ngay để không bỏ lỡ ưu đãi hấp dẫn này!",
+            "tags": ["bảo dưỡng", "ô tô", "ưu đãi"]
+        },
+        {
+            "title": "Miễn phí đăng ký biển số cho khách hàng mua xe",
+            "thumbnail": "https://example.com/images/car-registration.jpg",
+            "description": "Cơ hội đặc biệt - hỗ trợ miễn phí đăng ký biển số khi mua xe mới",
+            "body": "Với mong muốn giảm bớt gánh nặng tài chính cho khách hàng khi mua xe, chúng tôi triển khai chương trình miễn phí đăng ký biển số cho tất cả các dòng xe. Chương trình áp dụng cho các khách hàng ký hợp đồng mua xe từ ngày 1/3 đến 31/3. Đây là cơ hội giúp bạn tiết kiệm một khoản chi phí đáng kể khi sở hữu xe mới. Đến ngay đại lý gần nhất để được tư vấn chi tiết!",
+            "tags": ["đăng ký xe", "ô tô", "khuyến mãi"]
+        },
+        {
+            "title": "Flash Sale cuối tuần - Giảm ngay 100 triệu khi mua xe",
+            "thumbnail": "https://example.com/images/car-flashsale.jpg",
+            "description": "Cơ hội mua xe với giá cực tốt - Giảm ngay 100 triệu đồng trong cuối tuần này!",
+            "body": "Chỉ trong 3 ngày cuối tuần này, khách hàng mua xe tại showroom sẽ được giảm ngay 100 triệu đồng trên giá niêm yết. Chương trình áp dụng cho số lượng xe có hạn và chỉ dành cho các mẫu xe được chọn lọc. Hãy nhanh tay đặt cọc để đảm bảo cơ hội sở hữu xe với giá ưu đãi nhất. Đừng bỏ lỡ cơ hội hiếm có này để mua xe với mức giá không thể tốt hơn!",
+            "tags": ["flash sale", "ô tô", "giảm giá"]
+        },
+        {
+            "title": "Tích điểm đổi quà - Chương trình dành cho khách hàng thân thiết",
+            "thumbnail": "https://example.com/images/car-loyalty.jpg",
+            "description": "Mua xe và tích điểm để nhận quà tặng hấp dẫn từ đại lý",
+            "body": "Chúng tôi trân trọng từng khách hàng và mong muốn mang đến trải nghiệm tốt nhất thông qua chương trình tích điểm đổi quà. Mỗi khi bạn mua xe hoặc sử dụng dịch vụ tại hệ thống đại lý của chúng tôi, bạn sẽ tích lũy điểm thưởng và có thể đổi lấy những phần quà giá trị như phiếu bảo dưỡng miễn phí, phụ kiện ô tô cao cấp, thậm chí là giảm giá cho lần mua xe tiếp theo. Đăng ký ngay chương trình khách hàng thân thiết để không bỏ lỡ những ưu đãi đặc biệt!",
+            "tags": ["tích điểm", "ô tô", "khách hàng thân thiết"]
+        }
+    ]
+}
